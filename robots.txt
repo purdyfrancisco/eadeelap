@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://angeneico.whatrecovery.org/sitemap.xml
